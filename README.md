@@ -13,6 +13,7 @@ shown below:
 Here are links for demonstration videos:
 
 
-Speaker Lights that React to Music: https://www.youtube.com/watch?v=6gPYYZwi6Xk
+Speaker Lights that React to Music: https://www.youtube.com/watch?v=6gPYYZwi6Xk  ||  
+https://www.youtube.com/watch?v=INNzmIJ6C3Q
 
 Overhead Lights: https://www.youtube.com/watch?v=_f9k6AIx1-I
